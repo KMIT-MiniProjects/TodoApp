@@ -13,7 +13,7 @@
 			    	
 	</form>
 
- 
+ Test
  </div>
  
 <%@include file="/common/footer.jspf" %>
